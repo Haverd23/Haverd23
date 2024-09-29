@@ -1,7 +1,6 @@
 # Olá, eu sou o João Alves 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jo%C3%A3o--alves23-blue)](https://www.linkedin.com/in/jo%C3%A3o-alves23/)
-[![GitHub](https://img.shields.io/badge/GitHub-Haverd23-black)](https://github.com/Haverd23)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-alves23/) 
 
 ## Tecnologias que uso
 
