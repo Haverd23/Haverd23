@@ -7,8 +7,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haverd23&layout=compact&theme=radical)
 
 ## Projetos 
+- [DoeSangue](https://github.com/Haverd23/DoeSangue) - API em ASP.NET Core para gestão de doações de sangue com DDD, CQRS e Kafka. Inclui agendamento, controle de estoque, notificações por evento e autenticação via JWT.
 - [UrbanFix](https://github.com/Haverd23/UrbanFix) - API em ASP.NET Core para registro e gestão de chamados de reparos urbanos, com integração à API ViaCEP para busca de endereços.
 - [TalentScan](https://github.com/Haverd23/TalentScan) - API em ASP.NET Core que analisa currículos em PDF usando OpenAI GPT-4 e gera uma pontuação baseada em critérios definidos para auxiliar o RH.
-- [Task-Authentication](https://github.com/Haverd23/Task-Authentication) - Sistema de tarefas com backend em ASP.NET e frontend Angular. Suporta autenticação JWT, controle de acesso por papéis (Admin e Usuário), tarefas públicas ou privadas e ambiente Docker completo.
+
 ## Sobre Mim
 Sou estudante de Engenharia de Software e um entusiasta da tecnologia, sempre em busca de aprender e crescer. Tenho interesse em desenvolver minhas habilidades em programação e resolver problemas práticos através de projetos. Gosto de trabalhar em equipe e compartilhar conhecimentos, acreditando que a colaboração é essencial para a inovação. Nas horas livres, me interesso por Futebol, Pedalar, atividades que me ajudam a relaxar e a me manter ativo, além de ler e explorar novas tecnologias, que estimulam minha curiosidade e criatividade.
