@@ -2,10 +2,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:GabrielAlvees616@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalvees/)
 
-## Tecnologias que uso
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haverd23&layout=compact&theme=radical)
-
 ## Projetos 
 - [DoeSangue](https://github.com/Haverd23/DoeSangue) - API em ASP.NET Core para gestão de doações de sangue com DDD, CQRS e Kafka. Inclui agendamento, controle de estoque, notificações por evento e autenticação via JWT.
 - [UrbanFix](https://github.com/Haverd23/UrbanFix) - API em ASP.NET Core para registro e gestão de chamados de reparos urbanos, com integração à API ViaCEP para busca de endereços.
